@@ -1,0 +1,21 @@
+.container{
+    font-size: 45px;
+    margin-top: 20px;
+}
+h2{
+    margin-left: 18px;
+}
+h3{
+    margin-left: 18px;
+    margin-top: 10px; 
+}
+img{
+    margin-left: 18px;
+    border: black 2px solid;
+    margin-top: 10px;   
+}
+p{
+    margin-left: 18px;
+    margin-top: 10px;
+    font-size: 18px; 
+}

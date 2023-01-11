@@ -1,0 +1,17 @@
+
+li,ul,a{
+    list-style: none;
+    font-size: 20px;
+    border-radius: 4px;
+    padding: 8px;
+
+  
+}
+h1{
+ margin-left: 20px;
+}
+
+.container{
+    margin-left: 10px;
+    margin-top: 20px;
+}
